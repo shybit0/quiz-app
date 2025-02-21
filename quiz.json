@@ -1,0 +1,125 @@
+{
+    "response_code": 0,
+    "results": [
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "What is the name of the first human being in Norse mythology?",
+        "correct_answer": "Ask",
+        "incorrect_answers": [
+        "Asmund",
+        "Ake",
+        "Asger"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "In African mythology, Anansi is a trickster and storyteller who takes the shape of which animal?",
+        "correct_answer": "Spider",
+        "incorrect_answers": [
+        "Wild dog",
+        "Monkey",
+        "Crocodile"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "What is the name of the Greek god of blacksmiths?",
+        "correct_answer": "Hephaestus",
+        "incorrect_answers": [
+        "Dyntos",
+        "Vulcan",
+        "Artagatus"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "Hera is god of...",
+        "correct_answer": "Marriage",
+        "incorrect_answers": [
+        "Agriculture",
+        "Sea",
+        "War"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Who is a minor god that is protector and creator of various arts, such as cheese making and bee keeping.",
+        "correct_answer": "Aristaeus",
+        "incorrect_answers": [
+        "Autonoe",
+        "Carme",
+        "Cephisso"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "medium",
+        "category": "Mythology",
+        "question": "According to Japanese folklore, what is the favorite food of the Kappa.",
+        "correct_answer": "Cucumbers",
+        "incorrect_answers": [
+        "Kabocha",
+        "Nasu",
+        "Soba"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "Who is the Egyptian god of reproduction and lettuce?",
+        "correct_answer": "Min",
+        "incorrect_answers": [
+        "Menu",
+        "Mut",
+        "Meret"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "hard",
+        "category": "Mythology",
+        "question": "In Greek Mythology, who was the daughter of King Minos?",
+        "correct_answer": "Ariadne",
+        "incorrect_answers": [
+        "Athena",
+        "Ariel",
+        "Alana"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "This Greek goddess&#039;s name was chosen for the dwarf planet responsible for discord on Pluto&#039;s classification amongst astronomers.",
+        "correct_answer": "Eris",
+        "incorrect_answers": [
+        "Charon",
+        "Ceres",
+        "Dysnomia"
+        ]
+    },
+    {
+        "type": "multiple",
+        "difficulty": "easy",
+        "category": "Mythology",
+        "question": "In most traditions, who was the wife of Zeus?",
+        "correct_answer": "Hera",
+        "incorrect_answers": [
+        "Aphrodite",
+        "Athena",
+        "Hestia"
+        ]
+    }
+    ]
+}
